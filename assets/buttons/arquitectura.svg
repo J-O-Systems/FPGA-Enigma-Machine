@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="147" height="36" viewBox="0 0 147 36" role="img" aria-label="Arquitectura">
+  <rect width="147" height="36" rx="8" fill="#1f6feb"/>
+  <g transform="translate(12 9) scale(0.75)" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none" />
+  <path d="M5 6a1 1 0 0 1 1 -1h12a1 1 0 0 1 1 1v12a1 1 0 0 1 -1 1h-12a1 1 0 0 1 -1 -1l0 -12" />
+  <path d="M9 9h6v6h-6l0 -6" />
+  <path d="M3 10h2" />
+  <path d="M3 14h2" />
+  <path d="M10 3v2" />
+  <path d="M14 3v2" />
+  <path d="M21 10h-2" />
+  <path d="M21 14h-2" />
+  <path d="M14 21v-2" />
+  <path d="M10 21v-2" /></g>
+  <text x="38" y="23" fill="#ffffff" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">Arquitectura</text>
+</svg>
